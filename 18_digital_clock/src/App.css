@@ -1,0 +1,9 @@
+.clock-container{
+  margin: 10px;
+  padding: 10px;
+}
+
+.clock{
+  color: black;
+  font-size: 6rem;
+}
